@@ -4018,7 +4018,7 @@ pipeline {
 
 ``` bash
 git add .
-git commit -m 'added jenkigit add .nsfile petclinic-staging for release branch'
+git commit -m 'added jenkinsfile petclinic-staging for release branch'
 git push --set-upstream origin feature/msp-27
 git checkout release
 git merge feature/msp-27
