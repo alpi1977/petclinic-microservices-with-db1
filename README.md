@@ -4017,7 +4017,7 @@ pipeline {
 * Commit the change, then push the script to the remote repo.
 
 ``` bash
-
+git add .
 git commit -m 'added jenkigit add .nsfile petclinic-staging for release branch'
 git push --set-upstream origin feature/msp-27
 git checkout release
