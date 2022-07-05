@@ -4294,7 +4294,6 @@ kubectl get ns
 * Install the `cert-manager` on petclinic cluster. See [Cert-Manager info](https://cert-manager.io/docs/).
 
   * Create the namespace for cert-manager
-
   ```bash
     kubectl create namespace cert-manager
   ```
